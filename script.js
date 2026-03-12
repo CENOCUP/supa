@@ -5,7 +5,7 @@
 // Jogadores e resultados
 const jogadores = [
   { nome: "ceno", v: 3, e: 0, d: 1 },
-  { nome: "messi", v: 2, e: 1, d: 1 },
+  { nome: "messssi", v: 2, e: 1, d: 1 },
   { nome: "be", v: 1, e: 2, d: 1 },
   { nome: "ping999", v: 0, e: 1, d: 3 },
   { nome: "roni", v: 2, e: 0, d: 2 }
