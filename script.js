@@ -4,11 +4,11 @@
 
 // Jogadores e resultados
 const jogadores = [
-  { nome: "Player1", v: 3, e: 0, d: 1 },
-  { nome: "Player2", v: 2, e: 1, d: 1 },
-  { nome: "Player3", v: 1, e: 2, d: 1 },
-  { nome: "Player4", v: 0, e: 1, d: 3 },
-  { nome: "Player5", v: 2, e: 0, d: 2 }
+  { nome: "ceno", v: 3, e: 0, d: 1 },
+  { nome: "messi", v: 2, e: 1, d: 1 },
+  { nome: "be", v: 1, e: 2, d: 1 },
+  { nome: "ping999", v: 0, e: 1, d: 3 },
+  { nome: "roni", v: 2, e: 0, d: 2 }
 ];
 
 // Partidas importantes (destaques)
