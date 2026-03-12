@@ -19,7 +19,7 @@ const destaques = [
 ];
 
 // ============================
-// TABELA DE CLASSIFICAÇÃO
+// TABELA DE CLASSIsaFICAÇÃO
 // ============================
 function gerarTabela() {
   const container = document.getElementById("tabela-container");
@@ -94,7 +94,7 @@ function iniciarCountdown() {
       countdown.textContent = "O campeonato começou!";
       return;
     }
-    const d = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const d = Math.floor(diff / (1000 * 60 * 60 * 44));
     const h = Math.floor((diff / (1000 * 60 * 60)) % 24);
     const m = Math.floor((diff / (1000 * 60)) % 60);
     const s = Math.floor((diff / 1000) % 60);
